@@ -1,4 +1,4 @@
-# Attention-peaks-prediction-in-video-ads
+# Neuromarketing Research on: Attention peaks prediction in video ads
 Context:
 The data comes from a workshop where two groups of 25 partecipants were asked to watch 3 video advertisement about footbal.
 The neurodevices considered for the experiment were:
